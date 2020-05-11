@@ -1,0 +1,57 @@
+[
+	{
+		"key": "active",
+		"flags": 0,
+		"value": "bW9uZ286CiAgaG9zdDogIm1vbmdvOjI3MDE3IgogIHVzZXI6ICIiCiAgcGFzc3dvcmQ6ICIiCiAgZGF0YWJhc2U6ICJhY3RpdmUiCmxvZzoKICBsZXZlbDogIiI="
+	},
+	{
+		"key": "auth",
+		"flags": 0,
+		"value": "cmVkaXM6CiAgaG9zdDogInJlZGlzOjYzNzkiCiAgcGFzc3dvcmQ6ICIiCiAgZGF0YWJhc2U6IDAKICBQb29sU2l6ZTogMTAKICBNYXhSZXRyaWVzOiAzCiAgTWluSWRsZUNvbm5zOiA1Cgpsb2c6CiAgbGV2ZWw6ICJFcnJvciI="
+	},
+	{
+		"key": "brand",
+		"flags": 0,
+		"value": "bW9uZ286CiAgaG9zdDogIm1vbmdvOjI3MDE3IgogIHVzZXI6ICIiCiAgcGFzc3dvcmQ6ICIiCiAgZGF0YWJhc2U6ICJjc29mYW5zIgogIApyZWRpczoKICBob3N0OiAicmVkaXM6NjM3OSIKICBwYXNzd29yZDogIiIKICBkYXRhYmFzZTogMwogIFBvb2xTaXplOiAxMAogIE1heFJldHJpZXM6IDMKICBNaW5JZGxlQ29ubnM6IDUKCmxvZzoKICBsZXZlbDogIkVycm9yIg=="
+	},
+	{
+		"key": "customer",
+		"flags": 0,
+		"value": "bW9uZ286CiAgaG9zdDogIm1vbmdvOjI3MDE3IgogIHVzZXI6ICIiCiAgcGFzc3dvcmQ6ICIiCiAgZGF0YWJhc2U6ICIiCmxvZzoKICBsZXZlbDogImRlYnVnIgogIGhvb2s6ICJodHRwOi8vIg=="
+	},
+	{
+		"key": "fbapi",
+		"flags": 0,
+		"value": "YXBpOiAKICBhcHBpZDogIjYyNzA4OTY0NDcxNzI3MiIKICBzZWNyZXQ6ICI2NWNiNjA4OTQxZDVkOTE1ZjVlNTJkNzgwMjkyZmE3YyIKICBhcHB0b2tlbjogIjYyNzA4OTY0NDcxNzI3Mnw2Z0pBS1k3cUo0enh4bUFGUTFKZER5SzVoTFEiCiAgc3RhdGU6ICIxMjMiCm1vbmdvOgogIGhvc3Q6ICJtb25nbzoyNzAxNyIKICB1c2VyOiAiIgogIHBhc3N3b3JkOiAiIgogIGRhdGFiYXNlOiAiIgpsb2c6CiAgbGV2ZWw6ICJkZWJ1ZyIKICBob29rOiAiaHR0cDovLyI="
+	},
+	{
+		"key": "fbhook",
+		"flags": 0,
+		"value": "YXBpOiAKICBzZWNyZXQ6ICI2NWNiNjA4OTQxZDVkOTE1ZjVlNTJkNzgwMjkyZmE3YyIKICByZXF1ZXN0VG9rZW46ICJheG9sb3RsOTUyNyIKbW9uZ286CiAgaG9zdDogIm1vbmdvOjI3MDE3IgogIHVzZXI6ICIiCiAgcGFzc3dvcmQ6ICIiCiAgZGF0YWJhc2U6ICIiCm5hdHM6CiAgaG9zdDogIm5hdHM6Ly9uYXRzOjQyMjIiCiAgdXNlcjogIiIKICBwYXNzd29yZDogIiIKY2hhbm5lbDoKICBtc2c6ICJtc2ctcmVwbHkiCiAgcG9zdDogInBvc3QtcmVwbHkiCmxvZzoKICBsZXZlbDogImRlYnVnIgogIGhvb2s6ICJodHRwOi8vIg=="
+	},
+	{
+		"key": "gateway",
+		"flags": 0,
+		"value": "c2VydmljZToKICB1c2VyOiAidXNlciIKICBhdXRoOiAiYXV0aCIKICBicmFuZDogImJyYW5kIgogIGdtYWlsYXBpOiAiZ21haWxhcGkiCiAgZmJhcGk6ICJmYmFwaSIKICBjdXN0b21lcjogImN1c3RvbWVyIgogIGFjdGl2ZTogImFjdGl2ZSIKCmVtYWlsOgogIG5hbWU6ICJDc29GYW5zIgogIGFkZHJlc3M6ICJhZGFtY29sYTYwMEBnbWFpbC5jb20iCgppbnZpdGVwYWdlOiAiaHR0cHM6Ly8xOTIuMTY4LjMxLjg4OjgwODAvIy9XZWxjb21lL1NpZ25JbiIKCmxvZzoKICBsZXZlbDogIkVycm9yIg=="
+	},
+	{
+		"key": "gmailapi",
+		"flags": 0,
+		"value": "bG9nOgogIGxldmVsOiAiRXJyb3Ii"
+	},
+	{
+		"key": "message",
+		"flags": 0,
+		"value": "bW9uZ286CiAgaG9zdDogIm1vbmdvOjI3MDE3IgogIHVzZXI6ICIiCiAgcGFzc3dvcmQ6ICIiCiAgZGF0YWJhc2U6ICIiCm5hdHM6CiAgaG9zdDogIm5hdHM6Ly9uYXRzOjQyMjIiCiAgdXNlcjogIiIKICBwYXNzd29yZDogIiIKY2hhbm5lbDoKICBtc2dzdWI6ICJtc2ctcmVwbHkiCiAgbXNnYm90OiAibXNnLWJvdCIKICBtc2djaGF0OiAibXNnLWNoYXQiCiAgcG9zdDogInBvc3QtcmVweSIKICBwb3N0Ym90OiAicG9zdC1ib3QiCiAgcXVldWU6ICJheCIKbG9nOgogIGxldmVsOiAiZGVidWciCiAgaG9vazogImh0dHA6Ly8i"
+	},
+	{
+		"key": "msgateway",
+		"flags": 0,
+		"value": "bmF0czoKICBob3N0OiAibmF0czovL25hdHM6NDIyMiIKICB1c2VyOiAiIgogIHBhc3N3b3JkOiAiIgpjaGFubmVsOgogIG1zZzogIm1zZy1jaGF0IgpzZXJ2aWNlOgogIGF1dGg6ICJhdXRoIgogIGJyYW5kOiAiYnJhbmQiCiAgZmJhcGk6ICJmYmFwaSIKICBtZXNzYWdlOiAibWVzc2FnZSIKICBjdXN0b21lcjogImN1c3RvbWVyIgpyZWRpczoKICBob3N0OiAicmVkaXM6NjM3OSIKICBwYXNzd29yZDogIiIKICBkYXRhYmFzZTogMAogIFBvb2xTaXplOiAxMAogIE1heFJldHJpZXM6IDMKICBNaW5JZGxlQ29ubnM6IDUKbG9nOgogIGxldmVsOiAiRXJyb3Ii"
+	},
+	{
+		"key": "user",
+		"flags": 0,
+		"value": "bW9uZ286CiAgaG9zdDogIm1vbmdvOjI3MDE3IgogIHVzZXI6ICIiCiAgcGFzc3dvcmQ6ICIiCiAgZGF0YWJhc2U6ICJjc29mYW5zIgogCmxvZzoKICBsZXZlbDogIkVycm9yIg=="
+	}
+]
